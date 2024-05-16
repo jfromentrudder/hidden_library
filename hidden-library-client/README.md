@@ -1,6 +1,3 @@
-# HiddenLibrary
-Application for storing lists of your favorite books, book reviews, and books you want to read
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

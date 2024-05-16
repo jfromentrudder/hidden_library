@@ -1,0 +1,24 @@
+{
+	"books": {
+		"A Game of Thrones": {
+			"author": "George R. R. Martin",
+			"dateRead": "2/10/2024",
+			"id": "12345"
+		},
+		"Atomic Habits": {
+			"author": "James Clear",
+			"dateRead": "",
+			"id": "34567"
+		},
+		"His Majesty's Dragon": {
+			"author": "Naomi Novik",
+			"dateRead": "10/30/2023",
+			"id": "23478"
+		},
+		"A Dance of Cloaks": {
+			"author": "David Dalglish",
+			"dateRead": "",
+			"id": "78902"
+		}
+	}
+}
